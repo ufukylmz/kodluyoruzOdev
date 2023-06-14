@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #00ADB5;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
+
+h2 {
+    font-family: 'Teko', sans-serif;
+    color: #00ADB5;
+}
+
+a {
+    color: #00ADB5;
+}
+
+a:hover {
+    color: #393E46;
+}
+
+a:visited {
+    color: #1F6E8C;
+}
+
+body {
+    background-color: #222831;
+}
+
+h3 {
+    font-family: 'Teko', sans-serif;
+    color: #EEEEEE;
+}
+
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border: #393E46 2px solid;
+    padding: auto;
+    margin: auto;
+    display: block;
+}
